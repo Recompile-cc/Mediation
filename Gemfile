@@ -1,0 +1,5 @@
+gem 'dircordrb'
+gem 'json'
+gem 'sqlite3'
+gem 'serialport'
+gem 'rumoji'

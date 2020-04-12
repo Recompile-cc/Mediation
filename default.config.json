@@ -1,0 +1,14 @@
+{
+    "discord": {
+        "bot_token" : "",
+        "server_id" : ""
+    },
+    "terminal" : {
+        "port" : "/dev/tty/USB0",
+        "baud_rate" : "9600",
+        "bits" : "8"
+    },
+    "preferences" : {
+        "channel" : ""
+    }
+}
